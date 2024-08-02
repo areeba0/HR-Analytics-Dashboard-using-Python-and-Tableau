@@ -4,11 +4,11 @@ This project involves creating an HR analytics dashboard using a synthetic datas
 
 ![dashboard_1](https://github.com/user-attachments/assets/93ad6d79-ec1a-48fd-9394-18ac3397f039)
 
-![dashboard_4](https://github.com/user-attachments/assets/0e380185-bb91-4b58-ae50-39f7b43a6933)
-
 ![dashboard_2](https://github.com/user-attachments/assets/d9c7ea5d-2750-4d38-9811-738103d76f24)
 
 ![dashboard_3](https://github.com/user-attachments/assets/202c5606-b59f-4d9f-806f-6a713b197fbd)
+
+![dashboard_4](https://github.com/user-attachments/assets/0e380185-bb91-4b58-ae50-39f7b43a6933)
 
 # Dashboard Sections
 The dashboard is divided into four main sections:
